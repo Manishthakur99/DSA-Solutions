@@ -15,3 +15,13 @@ void main(String[] args) {
         System.out.println(i);
     }
 }
+
+//new method by myself
+static int[] multiplyby10(int[] arr){
+    int n = arr.length;
+    int brr[] = new int[n];
+    for(int i=0; i<n; i++){
+        brr[i] = arr[i]*10;
+    }
+    return brr;
+}

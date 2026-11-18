@@ -1,5 +1,5 @@
 
-https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
+//https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 
 class Solution {
     public void rotate(int[] arr) {

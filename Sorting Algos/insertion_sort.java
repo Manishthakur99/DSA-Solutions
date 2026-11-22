@@ -1,4 +1,7 @@
 
+ // p c     p=prev c = current
+//1,2,3,4
+
 static void sort(int arr[]) {
     int n =arr.length;
     for(int i =1; i<n; i++){
